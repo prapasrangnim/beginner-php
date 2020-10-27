@@ -1,2 +1,4 @@
 # beginner-php
-library function for beginner
+Library function for beginner.
+
+Show example begin code.
